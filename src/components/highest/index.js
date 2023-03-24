@@ -23,7 +23,7 @@ function Highest(props) {
                     <div onClick={(e) => {
                         props.history.push("/")
                     }
-                    }>代码库社区</div>
+                    }>代码库社区练习完成</div>
                 </div>
                 <div className='right'>
                     <div><img src={banshen} /></div>
