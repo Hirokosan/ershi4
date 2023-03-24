@@ -57,7 +57,7 @@ function Daohang(props) {
                 }
                 <div className='seach'>
 
-                    <input type='text' placeholder='搜索帖子'></input>
+                    <input type='text' placeholder='发表帖子'></input>
 
                     <img src={fangda}></img>
                     <ConfigProvider
